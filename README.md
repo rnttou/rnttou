@@ -34,8 +34,8 @@ Passionate about data science, AI, and turning complex systems into clean soluti
 
 ### 📊 GitHub Stats
 
-![Rania's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnttou&show_icons=true&theme=rose_pine&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnttou&layout=compact&theme=rose_pine&hide_border=true)
+![Rania's GitHub stats](https://github-readme-stats.vercel.app/api?rnttou&show_icons=true&theme=rose_pine&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rnttou&layout=compact&theme=rose_pine&hide_border=true)
 
 ---
 
