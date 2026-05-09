@@ -13,7 +13,7 @@ Passionate about data science, AI, and turning complex systems into clean soluti
 - 🔭 Currently exploring **Agentic AI**, **Deep Learning** and **MLOps**
 - 💼 Former intern @ **ONCF** — analyzed railway signaling & telecom systems
 - 🤖 I automate everything — workflows, data pipelines, dashboards
-- 🌍 Arabic · French · English
+- 🌍English · French ·Arabic 
 
 ---
 
@@ -30,12 +30,6 @@ Passionate about data science, AI, and turning complex systems into clean soluti
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![Rania's GitHub stats](https://github-readme-stats.vercel.app/api?rnttou&show_icons=true&theme=rose_pine&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rnttou&layout=compact&theme=rose_pine&hide_border=true)
 
 ---
 
